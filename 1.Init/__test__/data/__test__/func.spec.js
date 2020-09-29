@@ -4,4 +4,3 @@ test('TEST func', () => {
   const ret = func()
   expect(ret).toBe('test code')
 })
-  
