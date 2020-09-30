@@ -1,2 +1,2 @@
-
-![首页面](img/smith.jpg)
+## 逻辑图
+![授权认证](img/oauth.png)
