@@ -1,6 +1,6 @@
-## 异步实现方式 callback(setTimeout) Promise Generator Async/Await EventEmmiter
+## 异步实现方式 Callback(setTimeout) Promise Generator Async/Await EventEmmiter
 
-# callback
+# Callback
 
 # Promise
 [Promise对象用于异步操作，它表示一个尚未完成且预计在未来完成的异步操作]
